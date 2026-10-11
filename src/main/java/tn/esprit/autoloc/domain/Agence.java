@@ -1,4 +1,3 @@
-
 package tn.esprit.autoloc.domain;
 
 import jakarta.persistence.Entity;
